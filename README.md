@@ -5,6 +5,12 @@ The project focuses on recreating a clean and responsive social media interface 
 
 ---
 
+## 🌐 Live Demo
+
+https://abhishek-akkal.github.io/SocialNest/
+
+---
+
 ## 🚀 Features
 
 - Responsive LinkedIn-style layout
