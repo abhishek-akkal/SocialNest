@@ -1,4 +1,4 @@
-# SocialNet-Web
+# SocialNet
 
 SocialNet-Web is a modern LinkedIn-inspired social networking UI built using HTML and CSS.  
 The project focuses on recreating a clean and responsive social media interface with modern frontend design and layout techniques.
