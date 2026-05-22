@@ -7,7 +7,7 @@ The project focuses on recreating a clean and responsive social media interface 
 
 ## 🌐 Live Demo
 
-https://social-nest-nine.vercel.app/
+https://social-nest-tel2.vercel.app/
 
 ---
 
