@@ -34,3 +34,5 @@ https://social-nest-tel2.vercel.app/
 ---
 
 ##📬Author
+
+Abhishek Akkal
